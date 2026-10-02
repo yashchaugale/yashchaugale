@@ -2,85 +2,46 @@
 
 ### APPLIED AI ENGINEER
 
-I build systems around models.
+# TURNING MODELS INTO PRODUCTS.
 
-LLMs · RAG · Agents · Retrieval · AI Infrastructure
+`LLMs` · `RAG` · `AGENTS` · `RETRIEVAL` · `AI SYSTEMS`
 
 ---
 
-```text
-$ ls /projects
+## 01 / REPO MIND
 
-repomind/
-you-cant-trade/
-```
-
-### `repomind/`
-
-**REPOSITORY INTELLIGENCE**
+**Repository Intelligence**
 
 Give an AI a codebase.  
-Let it understand the structure, retrieve the relevant context, and reason over it.
+Let it retrieve, understand, and reason over it.
 
-`code → parse → index → retrieve → reason`
+`code → index → retrieve → reason`
 
-[View repository →](https://github.com/yashchaugale/repomind)
+[EXPLORE →](https://github.com/yashchaugale/repomind)
 
 ---
 
-### `you-cant-trade/`
+## 02 / YOU CAN'T TRADE
 
-**TRADING INTELLIGENCE**
+**Trading Intelligence**
 
 Capture trades.  
-Understand behavior.  
+Analyze behavior.  
 Reason over history.
 
-`capture → analyze → retrieve → agents → synthesize`
+`capture → analyze → retrieve → synthesize`
 
-[View repository →](https://github.com/yashchaugale/you-cant-trade)
-
----
-
-## CURRENT SYSTEM
-
-```text
-LLM ENGINEERING
-        │
-        ├── Retrieval
-        ├── RAG
-        ├── Agentic Workflows
-        ├── Evaluation
-        └── AI Infrastructure
-```
-
-```text
-Python · FastAPI · React · SQL · LLM APIs
-```
+[EXPLORE →](https://github.com/yashchaugale/you-cant-trade)
 
 ---
 
-## A BELIEF
+### CURRENT FOCUS
 
-> The model is only one component.
-
-> The interesting engineering happens around it.
-
-Retrieval.  
-Context.  
-Tools.  
-State.  
-Evaluation.  
-Reliability.
+`LLM Engineering` · `RAG` · `Agentic AI` · `AI Infrastructure`
 
 ---
 
-## BUILDING IN PUBLIC
+> **THE MODEL IS NOT THE PRODUCT.**  
+> **THE SYSTEM AROUND IT IS.**
 
-I like taking ideas that sound simple,
-
-and turning them into systems that are much harder to build than expected.
-
----
-
-`github` · `linkedin` · `leetcode` · `x`
+[GitHub](https://github.com/yashchaugale) · [LeetCode](https://leetcode.com/u/Yash3623/) · [LinkedIn](#)
