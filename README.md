@@ -2,46 +2,24 @@
 
 ### APPLIED AI ENGINEER
 
-# TURNING MODELS INTO PRODUCTS.
+**Turning models into products.**
 
-`LLMs` · `RAG` · `AGENTS` · `RETRIEVAL` · `AI SYSTEMS`
-
----
-
-## 01 / REPO MIND
-
-**Repository Intelligence**
-
-Give an AI a codebase.  
-Let it retrieve, understand, and reason over it.
-
-`code → index → retrieve → reason`
-
-[EXPLORE →](https://github.com/yashchaugale/repomind)
+`LLMs` · `RAG` · `Agents` · `Retrieval`
 
 ---
 
-## 02 / YOU CAN'T TRADE
+**01 / RepoMind**  
+Repository intelligence — `code → retrieve → reason`  
+[Explore →](https://github.com/yashchaugale/repomind)
 
-**Trading Intelligence**
-
-Capture trades.  
-Analyze behavior.  
-Reason over history.
-
-`capture → analyze → retrieve → synthesize`
-
-[EXPLORE →](https://github.com/yashchaugale/you-cant-trade)
+**02 / You Can't Trade**  
+AI trading intelligence — `capture → analyze → synthesize`  
+[Explore →](https://github.com/yashchaugale/you-cant-trade)
 
 ---
 
-### CURRENT FOCUS
+`Python` · `FastAPI` · `React` · `LLM Systems`
 
-`LLM Engineering` · `RAG` · `Agentic AI` · `AI Infrastructure`
+> The model is not the product. The system around it is.
 
----
-
-> **THE MODEL IS NOT THE PRODUCT.**  
-> **THE SYSTEM AROUND IT IS.**
-
-[GitHub](https://github.com/yashchaugale) · [LeetCode](https://leetcode.com/u/Yash3623/) · [LinkedIn](#)
+[LinkedIn] · [LeetCode](https://leetcode.com/u/Yash3623/) · [X]
