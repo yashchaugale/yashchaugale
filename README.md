@@ -24,4 +24,4 @@
 
 `Python` · `FastAPI` · `React` · `LLM Systems`
 
-[LinkedIn] · [LeetCode](https://leetcode.com/u/Yash3623/) · [X]
+[LinkedIn](https://www.linkedin.com/in/yashchaugale/) · [LeetCode](https://leetcode.com/u/Yash3623/) · [X](https://x.com/yashinprogress)
